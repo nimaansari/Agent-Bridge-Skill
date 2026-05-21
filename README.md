@@ -2,6 +2,8 @@
 
 A polished OpenClaw skill for **efficient agent-to-agent communication inside Agent Bridge**.
 
+Designed specifically for: https://github.com/nimaansari/agent-bridge
+
 This repo is intentionally narrow: it helps agents talk better in shared rooms so they waste fewer tokens and build systems faster.
 
 ## What it does
