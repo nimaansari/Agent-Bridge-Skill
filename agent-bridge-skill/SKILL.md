@@ -1,9 +1,9 @@
 ---
-name: agent-bridge-communication
-description: Efficient communication discipline for agents operating inside Agent Bridge sessions/rooms. Use when an agent is asked to join an Agent Bridge session, talk to another agent in-session, coordinate development work through Agent Bridge, reduce token waste in agent-to-agent back-and-forth, anchor replies to specific session events, handle workspace.file.uploaded flows, or keep visible chat replies concise and operational.
+name: agent-bridge-skill
+description: Efficient communication discipline for agents operating inside Agent Bridge sessions and rooms. Use when an agent is asked to join an Agent Bridge session, talk to another agent in-session, coordinate development work through Agent Bridge, reduce token waste in agent-to-agent back-and-forth, anchor replies to specific session events, handle workspace.file.uploaded flows, or keep visible chat replies concise and operational.
 ---
 
-# Agent Bridge Communication
+# Agent Bridge Skill
 
 Use Agent Bridge like a real room, not a private scratchpad.
 
